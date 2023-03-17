@@ -14,13 +14,21 @@ Creating Iam users and policies .
 GO to nthe dashboard ... Search IAM 
 I am is aglobal services.
 go to users 
+
 add a user.(Srikanth)
+
 I wanted  to create an iam USER
+
 Custom Password (Stark)...Next
+
 create a group  (AdministraterAccess) ....create a user group
+
 Add a user to group (Admin)...Next
+
 Add Tags  .. If needed 
+
 Create User. 
+
 Change Alisa name /.
 
 
@@ -30,10 +38,15 @@ IAM Password Policy
 cloud shell .......is Aws cli.
 
 Roles .. Create a role.
+
 AWS Services
+
 EC2....next
+
 next we need lo assign policies
+
 Examplew : IAMREADONLYPOLICY....NExt
+
 ROle name 
 
 
@@ -45,17 +58,28 @@ EC2 Budgets Alerts (Email )
 Instance types :
 
 General purpose -------- greate for webservers or code repositiries, Blc B/w compute, memory, networking.
+
 compute optimised ------ greate for tasks that requiured high performances or dedicated gaming servers 
+
 memory optimised -------  for large data sets in memory, databases, performing unstructed data, for business inteligence 
+
 acclerated computing --- storage-intensive tasks that requir high read and write access to larger data sets on local storages 
+
 storage optimized 
+
 instance feature 
+
 measuring instance performance 
 
 
 security groups --- control traffic in and out from the instances by ip address and security groups 
+
 inbound rules ==== from other to the instances 
+
 outbound rules === from instance to others.
+
 access to ports 
+
 authorised Ip Ranges.
+
 Http , https , tcp, ssh , custom tcp 
